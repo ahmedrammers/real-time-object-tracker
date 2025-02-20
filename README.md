@@ -23,13 +23,13 @@ pip install opencv-python numpy
 ## Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/real-time-object-tracker.git
+   git clone https://github.com/ahmedrammers/real-time-object-tracker.git
    cd real-time-object-tracker
    ```
 
 2. Run the script:
    ```sh
-   python tracker.py
+   python object_track.py
    ```
 
 3. Select an object using the bounding box that appears.
@@ -42,14 +42,5 @@ pip install opencv-python numpy
 - **Real-Time Updates**: The tracker continuously updates the bounding box coordinates and overlays them on the video feed.
 
 ## Demo
-A recorded demo showcasing the tracking performance can be found [here](#) (Replace with actual link).
-
-## License
-This project is licensed under the MIT License.
-
-## Author
-[Your Name] - [Your GitHub Profile](https://github.com/yourusername)
-
-## Contributions
-Contributions are welcome! Feel free to submit a pull request or open an issue.
+A recorded demo showcasing the tracking performance can be found [here](https://drive.google.com/file/d/1c-48nCiRIDzFUVcE6s39WcCmwY9jxtGP/view?usp=sharing).
 
